@@ -1,0 +1,234 @@
+[
+
+ {
+    "id": 0,
+    "firstName": "conde",
+    "lastName": "olaf",
+    "fullName": "conde olaf",
+    "title": "malvado",
+    "family": "residencia olaf",
+    "image": "conde olaf.jpg",
+    "imageUrl": "https://spoilertime.com/wp-content/uploads/2017/09/portada-14-1024x533.jpg"
+ },
+
+ {
+   "id": 1,
+   "firstName": "violet",
+   "lastName": "baudelaire",
+   "fullName": "violet baudelaire",
+   "title": "inventora",
+   "family": "familia baudelaire",
+   "image": "violet.jpg",
+   "imageUrl": "https://lthumb.lisimg.com/654/18431654.jpg?width=411&sharpen=true"
+  },
+  
+{
+  "id": 2,
+  "firstName": "klaaus",
+  "lastName": "baudelaire",
+  "fullName": "klaus baudelaire",
+  "title": "lector",
+  "family": "familia baudelaire",
+  "image": "klaus.jpg",
+  "imageUrl": "https://iv1.lisimg.com/image/18431658/266full-klaus-baudelaire-%28louis-hynes%29.jpg"
+},
+
+{
+  "id": 3,
+  "firstName": "sunny",
+  "lastName": "baudelaire",
+  "fullName": "sunny baudelaire",
+  "title": "mordelona",
+  "family": "familia baudelaire",
+  "image": "sunny.jpg",
+  "imageUrl": "https://i.ytimg.com/vi/N7EWhmq7IQA/maxresdefault.jpg"
+},
+
+{
+  "id": 4,
+  "firstName": "sr.arthur",
+  "lastName": "poe",
+  "fullName": "sr.arthur poe",
+  "title": "banquero",
+  "family": "familia poe",
+  "image": "poe.png",
+  "imageUrl": "https://static.wikia.nocookie.net/snicket/images/2/2b/NetflixPoe.png"
+},
+
+{
+  "id": 5,
+  "firstName": "tio montgomery",
+  "lastName": "montgomery",
+  "fullName": "tio montgomery montgomery",
+  "title": "herpetologo",
+  "family": "montgomery",
+  "image": "montgomery.jpg",
+  "imageUrl": "https://i.pinimg.com/236x/56/f4/6a/56f46a8e4cbd6411ec61304b47a130ce.jpg"
+},
+
+{
+  "id": 6,
+  "firstName": "tia joshepine",
+  "lastName": "Anwhistle",
+  "fullName": "tia josephine anwhistle",
+  "title": "ortografia",
+  "family": "anwhistle",
+  "image": "joshepine.jpg",
+  "imageUrl": "https://cde.laprensa.e3.pe/ima/0/0/1/5/8/158047.jpg"
+},
+
+{
+  "id": 7,
+  "firstName": "esme",
+  "lastName": "Généviève Miseria",
+  "fullName": "esme Gigi genevieve miseria",
+  "title": "rica",
+  "family": "familia miseria",
+  "image": "esme.jpg",
+  "imageUrl": "https://i.pinimg.com/564x/df/79/5c/df795c6f545737506850bd55345f1a56.jpg"
+},
+
+{
+  "id": 8,
+  "firstName": "carmelita",
+  "lastName": "polainas",
+  "fullName": "carmelita polainas",
+  "title": "estudiante malvada",
+  "family": "polainas",
+  "image": "carmelita.png",
+  "imageUrl": "https://i.pinimg.com/550x/cf/ec/8f/cfec8f9ac5e6c2a22c0ea3fc554c44d3.jpg"
+},
+
+{
+  "id": 9,
+  "firstName": "jerome",
+  "lastName": "squalor",
+  "fullName": "jerome squalor",
+  "title": "rico, millonario",
+  "family": "squalor",
+  "image": "jerome.png",
+  "imageUrl": "https://static.wikia.nocookie.net/snicket/images/f/f0/JeromeTV.png"
+},
+
+{
+  "id": 10,
+  "firstName": "lemony",
+  "lastName": "snicker",
+  "fullName": "lemony snicket",
+  "title": "narrador",
+  "family": "snicket",
+  "image": "lemony.png",
+  "imageUrl": "https://upload.wikimedia.org/wikipedia/en/1/1a/Patrick_Warburton_as_Lemony_Snicket.png"
+},
+
+{
+  "id": 11,
+  "firstName": "jacques",
+  "lastName": "snicker",
+  "fullName": "jacques snicket",
+  "title": "escritor",
+  "family": "snicket",
+  "image": "jacques.jpg",
+  "imageUrl": "https://static.wikia.nocookie.net/snicket/images/e/e9/Jacques_Snicket_2.jpeg"
+},
+
+{
+  "id": 12,
+  "firstName": "kit",
+  "lastName": "snicker",
+  "fullName": "kit snicket",
+  "title": "profesora",
+  "family": "snicket",
+  "image": "kit.png",
+  "imageUrl": "https://cde.laprensa.e3.pe/ima/0/0/1/9/1/191218.jpg"
+},
+
+{
+  "id": 13,
+  "firstName": "jacquelyn",
+  "lastName": "Scieszka",
+  "fullName": "jacquelyn scieszka",
+  "title": "secretaria",
+  "family": "scieszka",
+  "image": "jacquelyn.jpg",
+  "imageUrl": "https://i.ytimg.com/vi/GkMtKfRULNU/hqdefault.jpg"
+},
+
+{
+  "id": 14,
+  "firstName": "larry",
+  "lastName": "Your-Waiter",
+  "fullName": "larry your-waiter",
+  "title": "mesero",
+  "family": "your-water",
+  "image": "larry.png",
+  "imageUrl": "https://static.wikia.nocookie.net/snicket/images/d/d8/Larry_cropped.png"
+},
+
+{
+  "id": 15,
+  "firstName": "olivia",
+  "lastName": "caliban",
+  "fullName": "olivia caliban",
+  "title": "bliblotecaria",
+  "family": "caliban",
+  "image": "olivia.png",
+  "imageUrl": "https://i.pinimg.com/originals/ab/40/d9/ab40d9d933fccc8d6d6e325aa2bf87fa.png"
+},
+
+{
+  "id": 16,
+  "firstName": "Quigley",
+  "lastName": "Quagmire",
+  "fullName": "Quigley Quagmire",
+  "title": "investigador",
+  "family": "Quagmire",
+  "image": "Quigley.jpg",
+  "imageUrl": "https://i.pinimg.com/originals/b0/bb/59/b0bb59e17e41b6f85fb0bccad1cfc298.jpg"
+},
+
+{
+  "id": 17,
+  "firstName": "Duncan",
+  "lastName": "Quagmire",
+  "fullName": "Duncan Quagmire",
+  "title": "periodista",
+  "family": "Quagmire",
+  "image": "Duncan.pmg",
+  "imageUrl": "https://static.wikia.nocookie.net/snicket/images/5/5f/Duncan_netflix_square.png"
+},
+
+{
+  "id": 18,
+  "firstName": "isadora",
+  "lastName": "Quagmire",
+  "fullName": "isadora Quagmire",
+  "title": "poeta",
+  "family": "Quagmire",
+  "image": "isadora.jpg",
+  "imageUrl": "https://i.ytimg.com/vi/c6nX6SkVFgM/hqdefault.jpg"
+},
+
+{
+  "id": 19,
+  "firstName": "justice",
+  "lastName": "strauss",
+  "fullName": "justice strauss",
+  "title": "jueza",
+  "family": "strauss",
+  "image": "justice.jpg",
+  "imageUrl": "https://static.tvmaze.com/uploads/images/medium_portrait/93/233719.jpg"
+},
+
+{
+  "id": 20,
+  "firstName": "Georgina",
+  "lastName": "Orwell",
+  "fullName": "Georgina Orwell",
+  "title": "Doctor",
+  "family": "Orwell",
+  "image": "Georgina.pgn",
+  "imageUrl": "https://static.wikia.nocookie.net/snicket/images/7/79/Orwell.png"
+}
+
+]
